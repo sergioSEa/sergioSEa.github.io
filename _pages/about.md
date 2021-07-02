@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://github.com/sergioSEa/sergioSEa.github.io/blob/master/files/Picture.png?raw=true" alt="Photo" width="200" height="121";"/> 
+  <img src="https://github.com/sergioSEa/sergioSEa.github.io/blob/master/files/Picture.png?raw=true" alt="Photo" width="200" height="200";"/> 
 </p>
 
 # About Me
