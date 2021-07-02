@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "Lantao Yu (于澜涛)"
+title: "Sergio Andreu Sanchez"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- [Click to View My Up-to-date Curriculum Vitae [PDF]](http://lantaoyu.github.io/files/lantaoyu_cv.pdf)-->
+ [Click to View My Up-to-date Curriculum Vitae [PDF]](https://github.com/sergioSEa/sergioSEa.github.io/blob/master/files/CV.pdf)
 
 
 
