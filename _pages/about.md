@@ -13,11 +13,8 @@ redirect_from:
 </p>
 
 # About Me
-* I am a Ph.D. student in the [Computer Science Department](https://cs.stanford.edu/) at [Stanford University](https://www.stanford.edu/), advised by Prof. [Stefano Ermon](https://cs.stanford.edu/~ermon/). [[Curriculum Vitae](http://lantaoyu.com/files/lantaoyu_cv.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en)]
-* My research interests lie in the general area of machine learning, particularly in deep learning, reinforcement learning and probabilistic graphical models, as well as their applications in sequential decision making, generative modeling, multi-task and meta-learning and multi-agent systems.
-* I received my Bachelor’s Degree in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). My undergraduate research advisors are Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), Prof. [Weinan Zhang](http://wnzhang.net/) and Prof. [Jun Wang](http://www0.cs.ucl.ac.uk/staff/jun.wang/).
-
-
-# Academic Services
-* Conference Reviewer: AAAI 2019, AAAI 2020, ICML 2020 (top reviewer award), NeurIPS 2020, AAAI 2021, ICLR 2021, AISTATS 2021, ICRA 2021, ICML 2021, NeurIPS 2021, ICLR 2022.
-* Journal Reviewer: Journal of Artificial Intelligence Research (JAIR), IEEE Robotics and Automation Letters (RA-L), Journal of Machine Learning Research (JMLR).
+* I am a Ph.D. student in the [Microbiome group](https://cs.stanford.edu/) at the [University Medical Center Groningen](https://www.umcg.nl), under the supervision of  Prof. [Jingyuan Fu](https://www.rug.nl/research/genetics/staff/jingyuan-fu). [[Google Scholar](https://scholar.google.nl/citations?user=7OHBkYMAAAAJ&hl=en)] and [Sasha Zhernakova](https://www.rug.nl/research/genetics/staff/alexandra-(sasha)-zhernakova). [[Google Scholar](https://scholar.google.nl/citations?hl=en&user=lrt2jA8AAAAJn)] 
+* I hold a MSc degree in Bioinformatics (Computational Biology track) from the [University of Copenhagen](https://www.ku.dk/english/). During my MSc studies, I was part-time employed as a bioinformatician at [Evaxion Biotech](https://www.evaxion-biotech.com) and [Genomic Medicine](https://www.rigshospitalet.dk/afdelinger-og-klinikker/diagnostisk/genomisk-medicin/Sider/default.aspx) in the university hospital.
+* I hold a BSc degree in Biotechnology (Human and Biomedical biotechnology track) from the [Technical University of Valencia](http://www.upv.es). During my studies I performed to academic exchanges to [Jagiellonian University](https://en.uj.edu.pl/en_GB/start) and [Tsinghua University](https://www.tsinghua.edu.cn/en/). 
+* My research interests lie in genomics. I am interesting in combinubg genomic data with other omic datasets to understand complex biological phenomenons such as immunity or cardiovascular events. Currently, I focus on the human gut microbiome,  how it acts as a biomarker for different phenotypes and its role in disease.
+* My previous computational research experience include phylogenomic work in Bird 10,000 Genome project, under the supervison of [Guojie Zhang](http://zhanggjlab.org), and short research internships at Brunak's group[https://www.cpr.ku.dk/research/disease-systems-biology/brunak/] and JL Micol's[https://genetics.edu.umh.es], in addition to my work in clinical genomics at Genomic Medicine.
