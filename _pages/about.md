@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://github.com/sergioSEa/sergioSEa.github.io/blob/master/files/Picture.png?raw=true" alt="Photo" width="200" height="300";"/> 
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fitmunch.com%2Fgoogle-faces-lawsuit-tracking-data-chrome-incognito-mode%2F&psig=AOvVaw0c_TljUDFU89FfUhXIKifd&ust=1625304203471000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCPDauZCIxPECFQAAAAAdAAAAABAD?raw=true" alt="Photo" width="200" height="300";"/> 
 </p>
 
 # About Me
