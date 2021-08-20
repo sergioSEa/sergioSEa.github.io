@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
-  <img src="https://github.com/sergioSEa/sergioSEa.github.io/blob/master/files/groningen.jpeg?raw=true" alt="Photo" style="width: 450px;"/>  
-</p>
+
 
 # About
  
-<img style="float: right;" src="https://github.com/sergioSEa/sergioSEa.github.io/blob/master/files/groningen.jpeg?">
+<img style="float: right;" src="https://github.com/sergioSEa/sergioSEa.github.io/blob/master/files/groningen.jpeg?" style="width: 45px;"/>
 
 Hey there! I'm Sergio. I am a computational biologist currently making its way through his graduate studies at the [University Medical Center](https://www.umcg.nl) in Groningen, The Netherlands (for a wonderful sunset view of the city check the pic on the left!).  
 My current work consists on analysing a plethora of heath and molecular data to answer questions regarding ageing and health, in particular I try to identify what factors determine that our immune system ages healthy. 
