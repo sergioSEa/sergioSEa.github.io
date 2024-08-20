@@ -10,7 +10,7 @@ redirect_from:
 
 # About
 
-I am a computational biologist currently working on my postdoctoral degree at the [VIB](https://cfm.sites.vib.be/en) in Leuven, Belgium. My research focuses on investigating the adaptation of the gut microbiome to different lifestyle of its host, on how this might imapct health
+I am a computational biologist currently working as a postdoct at the [VIB](https://cfm.sites.vib.be/en) in Leuven, Belgium. My research focuses on investigating the adaptation of the gut microbiome to different lifestyle of its host, on how this might imapct health
 
 # My Journey
 
