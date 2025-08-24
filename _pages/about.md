@@ -14,20 +14,17 @@ I am a computational biologist currently working in the Data Science team at dsm
 
 Previously, I obtained a PhD at the University Medical Center Groningen, where I explored the drivers of interindividual variation in immunological and metabolic biomarkers in large, well-phenotyped population cohorts. I then completed a short postdoc at [VIB](https://cfm.sites.vib.be/en) in Leuven, Belgium, focusing on understanding temporal variation in subspecies diversity of the gut microbiome in both population-based and intervention settings.
 
----
 
 # CV
 
 ## May 2025 – Present: Associate Scientist, Data Science, dsm-firmenich
 I joined dsm-firmenich in a scientific role with the goal of translating microbiome insights into products with real-world impact.
 
----
 
 ## July 2024 – May 2025: Postdoctoral Researcher, VIB/KU Leuven
 I worked as a postdoctoral researcher in the [Raes Lab](https://raeslab.sites.vib.be/en) at VIB.  
 My focus was on understanding subspecies-level variation in the gut microbiome in both population and intervention studies. This included analyses of large cohort-based longitudinal studies and *ex-vivo* fermentation datasets.
 
----
 
 ## May 2023 – September 2024: Visiting Scholar, University of Trento
 I joined the [Computational Metagenomics Group](http://segatalab.cibio.unitn.it/) led by [Nicola Segata](https://scholar.google.com/citations?user=ZXjO-Q4AAAAJ) in Trento, Italy.  
@@ -35,7 +32,6 @@ My research focused on integrating large-scale metagenomic data at subspecies re
 
 This work was supported by EMBO, published in [Cell](https://www.cell.com/cell/fulltext/S0092-8674(25)00416-7), and featured in the media ([MicrobiomePost](https://microbiomepost.com/tiny-differences-in-gut-bacteria-may-influence-health-and-disease/), [NutraIngredients](https://www.nutraingredients.com/Article/2025/05/13/gut-microbiome-study-uncovers-strain-level-geographic-differences-and-disease-links/)).
 
----
 
 ## January 2020 – June 2024: PhD Studies, University Medical Center Groningen
 PhD in the Microbiome Group at the [University Medical Center Groningen](https://www.umcg.nl) under Prof. [Jingyuan Fu](https://www.rug.nl/research/genetics/staff/jingyuan-fu) [[Google Scholar](https://scholar.google.nl/citations?user=7OHBkYMAAAAJ&hl=en)] and Prof. [Sasha Zhernakova](https://www.rug.nl/research/genetics/staff/alexandra-(sasha)-zhernakova) [[Google Scholar](https://scholar.google.com/citations?user=lrt2jA8AAAAJ&hl=en)].  
@@ -47,7 +43,6 @@ Our work included:
 - Biological aging, such as [telomere length variation](https://www.nature.com/articles/s42003-022-03521-7)  
 - Subspecies-level microbiome variation, including [structural variation](https://www.nature.com/articles/s41586-023-06893-w) and [phylogenetic associations](https://www.cell.com/cell/fulltext/S0092-8674(25)00416-7)
 
----
 
 ## September 2018 – 2020: MSc Studies, University of Copenhagen
 MSc in Bioinformatics at the [University of Copenhagen](https://www.ku.dk/english/), Denmark.  
@@ -56,7 +51,6 @@ I was part of the main manuscript for the [second phase of the project](https://
 
 During my MSc, I also worked part-time as a bioinformatician at [Evaxion Biotech](https://www.evaxion-biotech.com) and at Rigshospitalet’s [Genomic Medicine Department](https://www.rigshospitalet.dk/afdelinger-og-klinikker/diagnostisk/genomisk-medicin/Sider/default.aspx). During my work at Genomic Medicine, we set up the infrastrucutre for routine NGS-based diagnosis of several diseases. We created guidelines and [benchmarks for variant calling](https://www.mdpi.com/2072-6694/13/24/6283) which were used daily at the hospital.
 
----
 
 ## September 2013 – 2018: BSc Studies, Technical University of Valencia
 BSc in Biotechnology (Human and Biomedical track) from the [Technical University of Valencia](http://www.upv.es).  
