@@ -54,7 +54,7 @@ MSc in Bioinformatics at the [University of Copenhagen](https://www.ku.dk/englis
 My thesis research was part of the Bird 10,000 Genomes Project at the [Centre for Biodiversity Genomics](http://zhanggjlab.org) under Prof. Guojie Zhang [[Google Scholar](https://scholar.google.com/citations?user=hcIDquMAAAAJ&hl=en)].  
 I was part of the main manuscript for the [second phase of the project](https://www.nature.com/articles/s41586-020-2873-9), and as part of my thesis, we published a study looking into [frame-shift variation in mitochondrial genes](https://academic.oup.com/gigascience/article/10/1/giaa161/6104268)
 
-During my MSc, I also worked part-time as a bioinformatician at [Evaxion Biotech](https://www.evaxion-biotech.com) and at Rigshospitalet’s [Genomic Medicine Department](https://www.rigshospitalet.dk/afdelinger-og-klinikker/diagnostisk/genomisk-medicin/Sider/default.aspx). During my work at Genomic Medicine, we set up the infrastrucutre for routine NGS-based diagnosis of several diseases. We created guidelines and [benchmarks for variant calling](https://academic.oup.com/gigascience/article/10/1/giaa161/6104268) which were used daily at the hospital.
+During my MSc, I also worked part-time as a bioinformatician at [Evaxion Biotech](https://www.evaxion-biotech.com) and at Rigshospitalet’s [Genomic Medicine Department](https://www.rigshospitalet.dk/afdelinger-og-klinikker/diagnostisk/genomisk-medicin/Sider/default.aspx). During my work at Genomic Medicine, we set up the infrastrucutre for routine NGS-based diagnosis of several diseases. We created guidelines and [benchmarks for variant calling](https://www.mdpi.com/2072-6694/13/24/6283) which were used daily at the hospital.
 
 ---
 
