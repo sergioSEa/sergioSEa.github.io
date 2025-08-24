@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sergio Andreu-Sanchez"
 title_separator          : "-"
 name                     : &name "Sergio Andreu Sanchez"
-description              : &description "Ph.D. student, Genetics/Pediatrics Departments, University Medical Center Groningen"
+description              : &description "Data Scientist at dsm-firmenich"
 url                      : https://sergioSEa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sergioSEa/sergioSEa.github.io"
@@ -79,11 +79,11 @@ analytics:
 author:
   name             : "Sergio Andreu Sanchez"
   avatar           : "Picture.png"
-  bio              : "Ph.D. student, Department Genetics/Pediatrics , University Medical Center Groningen"
+  bio              : "Data Scientist at dsm-firmenich"
   location         : "Groningen, The Netherlands"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=EDNKqOcAAAAJ&hl=en"
-  email            : "s.andreu.sanchez@umcg.nl"
+  email            : "sergio.andreu@dsm-firmenich.com"
   uri              : 
   bitbucket        :
   codepen          :
